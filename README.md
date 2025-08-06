@@ -3,8 +3,6 @@
 🔬 I work on **self-aware Computer Vision and Pattern Recognition foundation systems**.  
 I’m passionate about building AI systems that can **adapt, interpret, and learn** in real-world conditions.  
 
----
-
 ## 📄 About Me  
 
 - 🎓 Researcher in **Computer Vision & Machine Learning**  
@@ -22,8 +20,6 @@ I’m passionate about building AI systems that can **adapt, interpret, and lear
     <img src="https://img.shields.io/badge/CV-View%20PDF-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white">
   </a>
 </p>
-
----
 
 ## 🛠️ Skills  
 
