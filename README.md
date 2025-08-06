@@ -1,7 +1,7 @@
 # Hello, I'm Kranthi Kumar 👋
 
 
-Im Researcher in **Computer Vision & Pattern Recognition**  
+Im a Researcher in **Computer Vision & Pattern Recognition**  
 Building AI systems that **adapt, interpret & learn** in real-world conditions.  
 - 📑 [View my CV](https://skranthi-kumar.github.io/academic-portfolio-kranthi/Kranthi_Kumar_Resume_May2025.pdf)  
 - 📫 ks8513@srmist.edu.in  
