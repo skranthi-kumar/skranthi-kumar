@@ -8,7 +8,7 @@ Building AI systems that **adapt, interpret & learn** in real-world conditions.
 
 <p>
   <a href="https://www.linkedin.com/in/sariputi-kranthi-kumar-aa2028244/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white"></a>
-  <a href="https://skranthi-kumar.github.io/Portfolio/"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white"></a>
+  <a href="https://skranthi-kumar.github.io/"><img src="https://img.shields.io/badge/Website-000000?style=flat&logo=google-chrome&logoColor=white"></a>
   <a href="https://skranthi-kumar.github.io/academic-portfolio-kranthi/Kranthi_Kumar_Resume_May2025.pdf"><img src="https://img.shields.io/badge/CV-PDF-blue?style=flat&logo=adobeacrobatreader&logoColor=white"></a>
 </p>
 
