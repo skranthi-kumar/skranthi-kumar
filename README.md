@@ -20,7 +20,7 @@
   <img src="https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white">
 </p>
 
-🎓 M.Sc. Automotive Software Engineering, TU Chemnitz · B.Tech CSE, SRMIST (CGPA 8.9)
+🎓 B.Tech CSE, SRMIST (CGPA 8.9)
 🔬 Research Assistant, IIT Roorkee (Machine Vision Lab, WRDM Lab) · 🚗 Founder, [Drivos](https://drivos.in)
 
 ### 📄 Papers
